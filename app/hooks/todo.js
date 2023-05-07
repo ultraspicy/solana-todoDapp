@@ -14,7 +14,7 @@ let dummyTodos = [
     {
         account:{
             idx: '0',
-            content: 'Finish the essay collaboration',
+            content: 'Finish the ERD',
             marked: false,
         }
 
@@ -22,7 +22,7 @@ let dummyTodos = [
     {
         account:{
             idx: '1',
-            content: 'Understand Static Todo App',
+            content: 'Understand Static Todo dApp',
             marked: false,          
         }
 
